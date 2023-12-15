@@ -15,6 +15,7 @@ POST http://103.77.214.181:7777/create
 
 
 //getTaskResult
+
 GET http://103.77.214.181:7777/result/{idTask}
 
 ==> Example response:
